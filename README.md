@@ -22,17 +22,10 @@ This project is a Password Strength Checker developed using Python, Machine Lear
    
 ## Screenshots
 
-### Home Page
-home
-
-###Strong Password
-strong
-
-### Medium password
-medium
-
-### Weak Password
-weak
+home page
+strong page
+medium page
+weak page
 
 ## Author
 Divya Sinnur
