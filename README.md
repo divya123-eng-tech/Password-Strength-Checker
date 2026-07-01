@@ -20,12 +20,19 @@ This project is a Password Strength Checker developed using Python, Machine Lear
 3. Run `app.py`.
 4. Open the application in your browser.
    
-## Screenshots
+## 📸 Screenshots
 
-###home page
-###strong page
-###medium page
-###weak page
+### Home Page
+![Home Page](home.png)
+
+### Strong Password Result
+![Strong Password](strong.png)
+
+### Medium Password Result
+![Medium Password](medium.png)
+
+### Weak Password Result
+![Weak Password](weak.png)
 
 ## Author
 Divya Sinnur
